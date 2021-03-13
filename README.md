@@ -14,13 +14,15 @@ https://google.qwiklabs.com/focuses/2802?parent=catalog
 > ./cloudshell.sh 
 
 # Terminal 1
-git clone https://github.com/gablooge/GSP281.git
-cd GSP281
-sudo chmod +x 1.sh
+> git clone https://github.com/gablooge/GSP281.git
 
-./1.sh
+> cd GSP281
+
+> sudo chmod +x 1.sh
+
+> ./1.sh
 
 
 # Terminal 2 for gcloud authentication
-gcloud init
 
+> gcloud init
