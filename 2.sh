@@ -5,3 +5,4 @@ gcloud sql instances create qwiklabs-demo --tier=db-n1-standard-2 --region=us-ce
 gcloud sql databases create bike --instance=qwiklabs-demo 
 
 gcloud sql connect  qwiklabs-demo --user=root
+

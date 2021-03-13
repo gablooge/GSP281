@@ -4,6 +4,14 @@ Introduction to SQL for BigQuery and Cloud SQL
 
 https://google.qwiklabs.com/focuses/2802?parent=catalog
 
+# CloudShell
+> git clone https://github.com/gablooge/GSP281.git
+
+> cd GSP281
+
+> chmod +x cloudshell.sh
+
+> ./cloudshell.sh 
 
 # Terminal 1
 git clone https://github.com/gablooge/GSP281.git
@@ -15,3 +23,4 @@ sudo chmod +x 1.sh
 
 # Terminal 2 for gcloud authentication
 gcloud init
+
